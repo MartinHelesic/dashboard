@@ -1,4 +1,4 @@
-# user-list-and-chart
+# Dashboard
 
 You will need:
 
